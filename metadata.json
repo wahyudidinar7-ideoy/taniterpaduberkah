@@ -1,0 +1,6 @@
+{
+  "name": "TANI TERPADU BERKAH - Integrated Farming Pamotan",
+  "description": "Satu Lahan, Banyak Panen, Zero Waste, Bebas Finansial. Aplikasi Integrated Farming Nusantara untuk Desa Pamotan, Kalipucang, Pangandaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
